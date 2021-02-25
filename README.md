@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello, folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!  I am Daniele Mattioli
+A Computer Science and Engineer student @ Polytechnic University of Milan. I am very interested in AI and Machine Learning.
 
 <!--
 **DanieleMattioli/DanieleMattioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Programming languages recap:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleMattioli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
